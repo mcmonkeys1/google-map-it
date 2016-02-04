@@ -1,0 +1,16 @@
+{
+  "title": "Google Map It",
+  "name": "google-map-it",
+  "version": "0.0.1",
+  "description": "Another simple add-on I thought I would share. Inspired by the Map With Google addon, but working the way I want it to. Highlight an address with your mouse and right-click. Click on menu item \"Google Map It\" or press the letter 'g' key. A new tab opens with the selected text searched for in Google Maps.",
+  "main": "index.js",
+  "author": "Ros Mc Mahon (http://rosmcmahon.com)",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPL 2.0",
+  "keywords": [
+    "jetpack"
+  ]
+}
